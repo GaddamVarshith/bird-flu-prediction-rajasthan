@@ -1,0 +1,27 @@
+Date,Location,Strain,Number of Affected Birds,Measures Taken,Human Cases,Comments,Outbreak
+2021-01-05,Jaipur,H5N1,10000,"Culling, Movement Restrictions",0,Major outbreak in poultry farm,1
+2021-01-10,Kota,H5N1,5000,"Culling, Disinfection",0,Spread to nearby farms,0
+2021-01-15,Jodhpur,H5N1,3500,"Culling, Surveillance",0,Early detection helped control spread,0
+2021-01-20,Ajmer,H5N1,7000,"Culling, Public Awareness",0,Implemented rapid response,1
+2021-02-01,Bikaner,H5N1,4800,"Culling, Quarantine Measures",0,Coordinated with local farms,1
+2021-02-10,Udaipur,H5N1,8000,"Culling, Quarantine Measures",0,Migratory birds suspected source,0
+2021-02-18,Alwar,H5N1,6500,"Culling, Vaccination",0,Vaccination campaign launched,1
+2021-03-01,Sikar,H5N1,9200,"Culling, Movement Restrictions",0,Widespread outbreak in region,1
+2021-03-10,Pali,H5N1,4300,"Culling, Disinfection",0,"Localized outbreak, contained",0
+2021-04-05,Bharatpur,H5N1,3800,"Culling, Surveillance",0,Surveillance increased post-outbreak,1
+2021-04-15,Dausa,H5N1,2600,"Culling, Public Awareness",0,Public advised on safety measures,0
+2021-05-01,Jhunjhunu,H5N1,1900,"Culling, Movement Restrictions",0,Small-scale farm affected,1
+2021-05-12,Chittorgarh,H5N1,5500,"Culling, Disinfection",0,Disinfection measures heightened,0
+2021-06-01,Baran,H5N1,6200,"Culling, Surveillance",0,Surveillance across district,1
+2021-06-20,Jaisalmer,H5N1,4000,"Culling, Quarantine Measures",0,"Remote area, access challenges",0
+2021-07-05,Sawai Madhopur,H5N1,7300,"Culling, Public Awareness",0,Rapid response contained outbreak,1
+2021-07-15,Tonk,H5N1,3000,"Culling, Vaccination",0,Vaccination of remaining birds,0
+2021-08-01,Nagaur,H5N1,5800,"Culling, Movement Restrictions",0,Movement restrictions implemented,1
+2021-08-18,Barmer,H5N1,2400,"Culling, Disinfection",0,Disinfection protocols followed,0
+2021-09-01,Rajsamand,H5N1,6700,"Culling, Surveillance",0,Increased surveillance post-outbreak,1
+2021-09-15,Bhilwara,H5N1,3300,"Culling, Public Awareness",0,Public education campaign started,0
+2021-10-01,Bundi,H5N1,4500,"Culling, Quarantine Measures",0,Quarantine measures in place,1
+2021-10-20,Dholpur,H5N1,3100,"Culling, Vaccination",0,Vaccination of susceptible birds,0
+2021-11-01,Karauli,H5N1,6000,"Culling, Movement Restrictions",0,Restrictions on poultry movement,1
+2021-11-15,Hanumangarh,H5N1,4200,"Culling, Disinfection",0,Disinfection post-culling,0
+2021-12-01,Churu,H5N1,3600,"Culling, Surveillance",0,Surveillance to prevent spread,1
