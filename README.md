@@ -6,6 +6,10 @@ Bird flu, also known as avian influenza, is a highly contagious viral infection 
 
 This project aims to develop machine learning models to predict the likelihood of bird flu outbreaks in different regions of Rajasthan, India. By analyzing historical data on bird flu outbreaks along with various environmental and geographical factors, we aim to identify patterns and factors contributing to the spread of bird flu. The ultimate goal is to provide early warnings and recommendations to relevant authorities for effective prevention and control measures.
 
+## Bird Flu
+![Bird Flu]("C:\Users\Varshith\OneDrive\Desktop\imgs\2.png")
+
+
 ## Data
 
 The dataset used for this project contains information about bird flu outbreaks in Rajasthan, including the date, location, strain, number of affected birds, and measures taken. Additional environmental and geographical data, such as weather conditions and migratory bird patterns, may also be included for analysis.
